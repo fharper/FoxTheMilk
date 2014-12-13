@@ -1,0 +1,33 @@
+html, body {
+    margin: 0px;
+    height: 91%;
+}
+
+section header {
+    background-color: orange;
+    width: 100%;
+    height: 10%;
+}
+
+section header h1 {
+    color: white;
+    margin: 1.5625%; /* 5px/320px */
+}
+
+/* The connection window */
+#mozBrowser {
+    height: 100%;
+    width: 100%;
+}
+
+button {
+    width: 90%;
+    height: 5%;
+    margin: auto;
+}
+
+#connectionForm {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
